@@ -3,7 +3,7 @@
 error_reporting(E_ALL);
 ini_set('display_errors', '1');
 
-$api_key = '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';
+$api_key = '';
 $endpoint = 'https://api.openai.com/v1/chat/completions';
 
 $data = array(
